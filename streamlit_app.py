@@ -7,4 +7,4 @@ streamlit.header('this')
 
 
 streamlit.text('this')
-streamlt.text('this')
+streamlit.text('this')
